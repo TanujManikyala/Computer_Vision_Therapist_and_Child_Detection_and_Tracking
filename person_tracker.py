@@ -9,7 +9,7 @@ tracker = Sort()
 
 # Input and Output paths
 video_path = r"C:\Users\manik\Downloads\How to Do Play Therapy _ Building a Growth Mindset Role Play.mp4"
-output_path = r"C:\Users\manik\Downloads\output_Daniel.mp4"
+output_path = r"C:\Users\manik\Downloads\output.mp4"
 
 # Open video
 cap = cv2.VideoCapture(video_path)
